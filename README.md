@@ -51,13 +51,6 @@ Developed as a university project for 4th semester (Database & Business Process 
 
 ### Key Libraries & Dependencies
 
-#### Desktop Application (C#)
-- iText7 - PDF generation
-- BouncyCastle.Cryptography - Cryptographic operations
-- Microsoft.Extensions.DependencyInjection - Dependency injection
-- Microsoft.Extensions.Logging - Logging framework
-- System.Net.Http.Json - JSON HTTP communication
-
 #### Backend API (Java)
 - Spring Boot Starter Data JPA - Database operations
 - Spring Boot Starter Web - RESTful web services
