@@ -354,12 +354,3 @@ API base URL is hardcoded in the application. To change:
 ---
 
 
-For issues or questions about running the project:
-1. Check the Troubleshooting section above
-2. Verify all prerequisites are installed
-3. Ensure database is properly configured
-4. Check API logs for error details
-
----
-
-**⭐ If you found this project helpful, please consider giving it a star!**
